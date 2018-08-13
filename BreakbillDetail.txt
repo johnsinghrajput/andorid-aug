@@ -1,0 +1,78 @@
+>>Server Link: http://52.58.181.216
+
+>>Database Detail: http://52.58.181.216/phpmyadmin
+
+
+>>USername:root
+>>Password:Breakbill@56#
+
+
+FTP Detail:
+
+ Host: 52.58.181.216
+ username : ubuntu
+ port: 22
+ Access with ssh key : breakbill.ppk
+
+Document root: /var/www/html/development
+Document root: /var/www/html/livefolder
+
+
+Ports allowed like 80 for server 25 for SMTP ,22 for ftp.
+
+
+>> We suggest waiting up to 24 hours for the DNS cache to be fully refreshed. DNS will refresh according to the "TTL" or "Time To Live". When the DNS refreshes according to its TTL, the propagation is complete and your site will load.
+
+>>New AWS NameServer
+
+ns-1007.awsdns-61.net.
+ns-1776.awsdns-30.co.uk.
+ns-285.awsdns-35.com.
+ns-1071.awsdns-05.org.
+
+
+
+
+>>Domain old Detail
+
+>>DNS setting<<
+
+Ip 66.96.140.168
+   66.96.140.169
+
+
+*
+66.96.162.140
+
+pop
+66.96.162.140
+
+smtp
+66.96.162.140
+
+mail
+66.96.162.140
+
+ftp
+66.96.162.140
+
+imap
+66.96.162.140
+
+breakbill.com
+66.96.162.140
+
+webmail
+66.96.162.48
+
+email
+66.96.162.48
+
+
+
+
+>>Use default name servers
+Nameserver 1
+ns1.domain.com
+Nameserver 1
+ns2.domain.com
